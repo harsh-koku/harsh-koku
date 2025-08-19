@@ -50,8 +50,11 @@ It allows users to **create, edit, update, and delete blog posts** with a clean 
 
 ## 📊 GitHub Stats  
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Harsh Koku's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh-koku&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-koku&layout=compact&theme=radical)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=harsh-koku&theme=radical&hide_border=true)
 
 ---
 
